@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+//LO QUE HICIMOS CON EL PROFE
+
 @Controller
 public class GeneralController {
     //Servlet camuflado
